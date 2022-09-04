@@ -1,0 +1,1 @@
+This program parses the events logged by Event Tracing for Windows (ETW) tool. The resulting information can be used by administrating and security tools that perform forensic analysis to monitor system behavior.
